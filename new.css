@@ -3,7 +3,7 @@ body{
     font-family: 'Rubik', sans-serif;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 .new{
     color: orangered;
@@ -23,4 +23,14 @@ h1{
 }
 section{
     height: 500px;
+}
+.link{
+    text-decoration: none ;
+   border-radius: 5px;
+    padding: 10px 20px;
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient( 45deg, orangered, orange,);
+
 }
